@@ -4,4 +4,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigobalaban/)](https://www.linkedin.com/in/rodrigobalaban/)
 
 ### Sobre mim
-Desenvolvedor de Software, com vários anos de experiência em soluções web. Bacharel em Sistemas de Informação (Uniguaçu), com especialização em andamento em Desenvolvimento Ágil de Software (UFPR). Atualmente, é Desenvolvedor Pleno na WLE Tecnologia em Automação.
+Desenvolvedor de Software, com vários anos de experiência em soluções web. Bacharel em Sistemas de Informação (Uniguaçu), com especialização em andamento em Desenvolvimento Ágil de Software (UFPR). Atualmente, é Desenvolvedor Pleno na TOTVS.
